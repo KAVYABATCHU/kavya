@@ -1,0 +1,24 @@
+{
+  "basis":{
+    "name":"kavya",
+    "email":"kavyatarunbatchu@gmail.com",
+    "mobile":"+91-6666666666"
+  },
+"education":[
+  {
+    "degree":"B.Tech",
+    "institute":"PSCMR",
+     "data":["2015-19","70"]
+   },
+   {
+       "degree":"inter",
+       "institute":"sri chataniya",
+        "data":["2013-15","76"]
+  },
+  {
+        "degree":"SSC",
+        "institute":"s.t.b.e.m.hs",
+         "data":["2012","76"]
+  }
+]
+}
