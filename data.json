@@ -4,6 +4,9 @@
     "email":"kavyatarunbatchu@gmail.com",
     "mobile":"+91-6666666666"
   },
+  "career":{
+    "info":"To work in a meaningful and challenging position that allows me to develop myself  and have the scope for advancement."
+  },
 "education":[
   {
     "degree":"B.Tech",
@@ -19,6 +22,35 @@
         "degree":"SSC",
         "institute":"s.t.b.e.m.hs",
          "data":["2012","76"]
+  }
+],
+"achievements":[
+{
+  "name":"certified in <b>3D printing</b>"
+},
+{
+  "name":"certified as participant in <b>TOSTMASTERS CHAMPIONSHIP</b>"
+},
+{
+  "name":"certified in<b>C,C++</b>from IIT BOMBAY"
+}
+],
+"technicalskills":[
+  {
+    "name":"programing languages",
+    "data":["C,C++,JAVA"]
+  },
+  {
+    "name":"databases",
+    "data":["mysql,DBMS"]
+  },
+  {
+    "name":"webtechnologies",
+    "data":["HTML,Css,javascript"]
+  },
+  {
+    "name":"server-side scripting",
+    "data":["PHP"]
   }
 ]
 }

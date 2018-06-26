@@ -1,3 +1,13 @@
+table{
+  width:90%;
+  box-shadow: 3px 3px 3px #ddd;
+}
+td{
+  padding:1%;
+}
+tr:nth-child(even){
+  background:#ddd;
+}
 a{
   text-decoration:none;
 }
@@ -7,7 +17,7 @@ flex-direction:row;
 justify-content:center;
 }
 .child1{
-width:100%;
+width:30%;
 border :1px solid #ddd;
 border-radius:15px;
 box-shadow:3px 3px 3px #ddd;
@@ -16,7 +26,7 @@ margin:2%;
 }
 
 .child2{
-width:100%;
+width:70%;
 border:1px solid #ddd;
 border-radius:15px;
 box-shadow:3px 3px 3px #ddd;
